@@ -24,6 +24,7 @@ Make sure you have the following installed:
 - Node.js
 - npm or yarn
 - MongoDB
+- RabbitMQ
 
 ## Getting Started
 
