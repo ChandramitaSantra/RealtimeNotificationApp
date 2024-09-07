@@ -158,6 +158,7 @@ Response:
   "read": true
 }
 ### Real-Time Notification Routes
+http.//localhost:5002
 POST /api/realtime/send
 Send a real-time notification to all connected clients (Optional route).
 
