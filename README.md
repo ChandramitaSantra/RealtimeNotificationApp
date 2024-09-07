@@ -15,6 +15,7 @@ This is a full-stack application for real-time notifications built using Socket.
 - **Frontend:** React.js
 - **Authentication:** JWT (JSON Web Tokens)
 - **Database:** MongoDB
+- RabbitMQ
 
 ## Prerequisites
 
